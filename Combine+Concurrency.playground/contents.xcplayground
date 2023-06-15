@@ -7,5 +7,6 @@
         <page name='share() operator'/>
         <page name='Back pressure'/>
         <page name='NotificationCenter'/>
+        <page name='Timer'/>
     </pages>
 </playground>
